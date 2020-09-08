@@ -1,0 +1,2 @@
+# TurkishNews
+iOS training project
